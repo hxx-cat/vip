@@ -444,7 +444,7 @@ export default {
         },
         {
           img_top: "./src/assets/images/type_right_i6.webp",
-          img_span: "../../src/assets/images/type_right_s6.webp",
+          img_span: "./src/assets/images/type_right_s6.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
