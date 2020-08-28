@@ -47,7 +47,7 @@
 
               <span>
                 <img :src="item.src2" alt />
-                <!-- <b>{{item.title}}</b> -->
+                <b>{{item.title}}</b>
               </span>
             </li>
           </ul>
