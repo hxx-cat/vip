@@ -693,7 +693,7 @@ h2 {
 }
 .bigsale li {
   float: left;
-  margin-right: 1%;
+  margin-right: 3%;
   width: 30%;
 }
 .bigsale li:nth-of-type(3) {

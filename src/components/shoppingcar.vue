@@ -120,7 +120,7 @@ export default {
           money: 49,
           type: "蔷薇粉红(64)",
           size: "M",
-          src: "../../src/assets/images/goods10.jpg",
+          src: "./src/assets/images/goods10.jpg",
         },
         {
           name: "安之伴睡衣春秋新品长袖休闲长裤套装韩版纯色宽松家居服",
@@ -128,7 +128,7 @@ export default {
           money: 52,
           type: "男款黑兰",
           size: "M",
-          src: "../../src/assets/images/goods1.jpg",
+          src: "./src/assets/images/goods1.jpg",
         },
       ],
     };

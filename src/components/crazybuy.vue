@@ -47,7 +47,7 @@
 
               <span>
                 <img :src="item.src2" alt />
-                <b>{{item.title}}</b>
+                <!-- <b>{{item.title}}</b> -->
               </span>
             </li>
           </ul>
@@ -281,38 +281,38 @@ export default {
       list_img: [
         {
           img_1: "1",
-          src1: "../../src/assets/images/i1.webp",
-          src2: "../../src/assets/images/i1_1.webp",
+          src1: "./src/assets/images/i1.webp",
+          src2: "./src/assets/images/i1_1.webp",
           title: "3折封顶",
         },
         {
           img_1: "2",
-          src1: "../../src/assets/images/i2.webp",
-          src2: "../../src/assets/images/i2_2.webp",
+          src1: "./src/assets/images/i2.webp",
+          src2: "./src/assets/images/i2_2.webp",
           title: "3折封顶",
         },
         {
           img_1: "3",
-          src1: "../../src/assets/images/i3.webp",
-          src2: "../../src/assets/images/i3_3.webp",
+          src1: "./src/assets/images/i3.webp",
+          src2: "./src/assets/images/i3_3.webp",
           title: "3折封顶",
         },
         {
           img_1: "4",
-          src1: "../../src/assets/images/i4.webp",
-          src2: "../../src/assets/images/i4_4.webp",
+          src1: "./src/assets/images/i4.webp",
+          src2: "./src/assets/images/i4_4.webp",
           title: "3折封顶",
         },
         {
           img_1: "5",
-          src1: "../../src/assets/images/i5.webp",
-          src2: "../../src/assets/images/i5_5.webp",
+          src1: "./src/assets/images/i5.webp",
+          src2: "./src/assets/images/i5_5.webp",
           title: "3折封顶",
         },
         {
           img_1: "6",
-          src1: "../../src/assets/images/i6.webp",
-          src2: "../../src/assets/images/i6_6.webp",
+          src1: "./src/assets/images/i6.webp",
+          src2: "./src/assets/images/i6_6.webp",
           title: "3折封顶",
         },
       ],
@@ -413,56 +413,56 @@ export default {
       ],
       list_type_right_con: [
         {
-          img_top: "../../src/assets/images/type_right_i1.webp",
-          img_span: "../../src/assets/images/type_right_s1.webp",
+          img_top: "./src/assets/images/type_right_i1.webp",
+          img_span: "./src/assets/images/type_right_s1.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i2.webp",
-          img_span: "../../src/assets/images/type_right_s2.webp",
+          img_top: "./src/assets/images/type_right_i2.webp",
+          img_span: "./src/assets/images/type_right_s2.webp",
           img_name: "七格格女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i3.webp",
-          img_span: "../../src/assets/images/type_right_s3.webp",
+          img_top: "./src/assets/images/type_right_i3.webp",
+          img_span: "./src/assets/images/type_right_s3.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i4.webp",
-          img_span: "../../src/assets/images/type_right_s4.webp",
+          img_top: "./src/assets/images/type_right_i4.webp",
+          img_span: "./src/assets/images/type_right_s4.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i5.webp",
-          img_span: "../../src/assets/images/type_right_s5.webp",
+          img_top: "./src/assets/images/type_right_i5.webp",
+          img_span: "./src/assets/images/type_right_s5.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i6.webp",
+          img_top: "./src/assets/images/type_right_i6.webp",
           img_span: "../../src/assets/images/type_right_s6.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i7.webp",
-          img_span: "../../src/assets/images/type_right_s7.webp",
+          img_top: "./src/assets/images/type_right_i7.webp",
+          img_span: "./src/assets/images/type_right_s7.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i8.webp",
-          img_span: "../../src/assets/images/type_right_s8.webp",
+          img_top: "./src/assets/images/type_right_i8.webp",
+          img_span: "./src/assets/images/type_right_s8.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },
         {
-          img_top: "../../src/assets/images/type_right_i9.webp",
-          img_span: "../../src/assets/images/type_right_s9.webp",
+          img_top: "./src/assets/images/type_right_i9.webp",
+          img_span: "./src/assets/images/type_right_s9.webp",
           img_name: "衣香丽影YSING女装-季末特卖3折封顶专场",
           img_btn: "进入专场",
         },

@@ -49,7 +49,7 @@ export default new VueRouter({
       component: personal
     },
     {
-      path: "/giordano",
+      path: "/giordano/:sh",
       component: giordano
     },
     {
